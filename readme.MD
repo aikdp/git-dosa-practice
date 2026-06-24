@@ -10,3 +10,7 @@
 * Oil
 * eggs
 * masala
+
+# Rebase dosa
+* dosa batter
+* mysore masala
