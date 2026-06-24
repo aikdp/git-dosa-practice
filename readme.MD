@@ -18,3 +18,6 @@
 * aalu masala
 * ghee
 * dalda
+
+# Egg Suresh
+* 1 egg
