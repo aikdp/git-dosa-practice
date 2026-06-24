@@ -14,3 +14,5 @@
 # Rebase dosa
 * dosa batter
 * mysore masala
+* chicken masala
+* aalu masala
