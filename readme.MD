@@ -16,3 +16,5 @@
 * mysore masala
 * chicken masala
 * aalu masala
+* ghee
+* dalda
