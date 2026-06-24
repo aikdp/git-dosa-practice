@@ -24,13 +24,6 @@
 * karam
 * oil and ghee
 
-# Robert Spl
-* dosa batter   
-* oil
-* podi
-* spl masala
-
-# Rahemm spl
-* dosa batter
-* oil
-* podi
+# Panner Dosa
+* Dosa batter
+* dosa flour
