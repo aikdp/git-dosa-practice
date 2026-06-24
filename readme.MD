@@ -23,3 +23,7 @@
 * 2 egg
 * karam
 * oil and ghee
+
+# panner
+* dosa batter
+* panner
