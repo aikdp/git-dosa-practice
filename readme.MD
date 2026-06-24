@@ -19,6 +19,7 @@
 * ghee
 * dalda
 
-# Ramesh-egg
-* dosa
+# Egg Suresh
+* 2 egg
 * karam
+* oil and ghee
