@@ -20,6 +20,6 @@
 * dalda
 
 # Egg Suresh
-* 1 egg
+* 2 egg
 * karam
 * oil and ghee
