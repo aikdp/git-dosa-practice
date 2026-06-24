@@ -24,9 +24,6 @@
 * karam
 * oil and ghee
 
-# panner
-* dosa batter
-* panner
-* oil
-* ghee
-* panner masala
+# Panner Dosa
+* Dosa batter
+* dosa flour
