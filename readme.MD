@@ -28,7 +28,6 @@
 * dosa batter   
 * oil
 * podi
-<<<<<<< HEAD
 * spl masala
 
 # Rahemm spl
