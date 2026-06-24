@@ -1,4 +1,5 @@
 # Dosa
-* Dosa Flour
-* Light Oil
-* Light Oil
+* Karam
+* Dosa Batter
+* oil
+* ghee
