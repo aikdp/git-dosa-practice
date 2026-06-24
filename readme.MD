@@ -18,3 +18,8 @@
 * aalu masala
 * ghee
 * dalda
+
+# Egg Suresh
+* 2 egg
+* karam
+* oil and ghee
