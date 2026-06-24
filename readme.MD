@@ -22,3 +22,4 @@
 # Egg Suresh
 * 1 egg
 * karam
+* oil and ghee
