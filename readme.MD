@@ -29,4 +29,4 @@
 * panner
 * oil
 * ghee
-* garam masala
+* panner masala
