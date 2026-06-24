@@ -23,3 +23,9 @@
 * 2 egg
 * karam
 * oil and ghee
+
+# Robert Spl
+* dosa batter   
+* oil
+* podi
+* spl masala
