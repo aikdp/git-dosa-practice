@@ -28,3 +28,5 @@
 * dosa batter
 * panner
 * oil
+* ghee
+* garam masala
